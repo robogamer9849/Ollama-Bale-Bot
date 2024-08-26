@@ -1,7 +1,6 @@
 # Ollama-bale-bot
 **What is Bale?<br/>
-The "Bale" is a messenger-platform for send and receive messages.**
-a bale bot for ollama
+The "Bale" is a messenger-platform for send and receive messages. and this is a bale bot for ollama**
 
 commads:<br/>
 `/list_models`: list available models<br/>
