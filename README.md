@@ -1,5 +1,5 @@
 # Ollama-bale-bot
-**What is Bale?
+**What is Bale?<br/>
 The "Bale" is a messenger-platform for send and receive messages.**
 a bale bot for ollama
 
