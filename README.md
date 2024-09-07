@@ -23,7 +23,7 @@ installation:<br/>
 [Ollama Python Library](https://github.com/ollama/ollama-python): `pip install ollama`
 
 3.download the latest version from releses part of this page(the one from the files is the oldest version)<br/>
-3.5:
+3.5:<br/>
 bot.multiple.log: makes a file named OllamaBotLogs{date}.log every time you run the app and keeps the old logs<br/>
 bot.single.log: makes a single OllamaBotLogs.log and overwrites it every time the bot is ran
 
